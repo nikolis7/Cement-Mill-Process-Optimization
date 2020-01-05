@@ -1,6 +1,6 @@
 # Cement-Mill-Process-Optimization
 
-This is a teamwork project with the following conntributors :
+This is a teamwork project with the following contributors :
 Bill Dimou 
 Olga Kyriazi
 Sotiris Simos
